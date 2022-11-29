@@ -17,7 +17,7 @@ namespace RockPaperScissors
 
             while (gameLoop)
             {
-                Console.Write("Choose [r]ock, [p] or [s]cissors: ");
+                Console.Write("Choose [r]ock, [p]aper or [s]cissors: ");
                 string playChoice = Console.ReadLine();
 
                 switch (playChoice)
