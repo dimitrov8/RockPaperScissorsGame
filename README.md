@@ -9,6 +9,6 @@ Source code link: https://pastebin.com/fCb8hH5S
 
 Play the game directly in your Web Browser:
 
-[<img alt="Play Button" src="https://raw.githubusercontent.com/dimitrov8/RockPaperScissorsGame/main/playbutton.jpg" />](https://replit.com/@dimitrov8/RockPaperScissors?v=1)
+[<img alt="Play Button" src="https://github.com/dimitrov8/RockPaperScissorsGame/blob/main/playbutton.png" />](https://replit.com/@dimitrov8/RockPaperScissors?v=1)
 
 
